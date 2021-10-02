@@ -1,5 +1,8 @@
 # SkoleniGitCzechitas
 Cvičná git repozitory na dnešní školení - czechitas
 
-## Druhé cvičení
+## Druhe cviceni
 Změna do GitHubu Lorem Ipsum
+
+## Third exercise
+some changes
